@@ -15,7 +15,8 @@
       "node_modules/loopback-component-explorer/lib/*.js",
       "node_modules/loopback/common/**/*.js",
       "node_modules/moment/locale/*.js",
-      "common/**/*.js"
+      "common/**/*.js",
+      "server/**/*.js"
     ],
     "assets": [
       "node_modules/*/node_modules/loopback-phase/intl/**/*.json",
